@@ -1,6 +1,3 @@
-//take two arrays and compare the contents
-//return a new array with any element that is only in one of the two original arrays
-
 function diffArray(arr1, arr2) {
   var newArr = [];
   for (i = 0; i < arr1.length; i++) {
